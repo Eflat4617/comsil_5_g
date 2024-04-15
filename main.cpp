@@ -13,5 +13,8 @@ int main(){
         cout << "input is one";
     }
 
+    else if(k == 2){
+        cout << "k is two";
+    }
     return 0;
 }
