@@ -12,6 +12,9 @@ int main(){
     else if(k == 1){
         cout << "input is one";
     }
+    else if(k == 3){
+        cout << "input is three";
+    }
 
     else if(k == 2){
         cout << "k is two";
