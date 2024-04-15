@@ -9,7 +9,9 @@ int main(){
     if(k == 0){
         cout << "hi";
     }
-    
+    else if(k == 3){
+        cout << "input is three";
+    }
 
     return 0;
 }
